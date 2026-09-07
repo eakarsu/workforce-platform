@@ -1,0 +1,9 @@
+{
+  "app": "workforce-platform",
+  "features": 309,
+  "sourceApps": 12,
+  "calculatorEngines": 0,
+  "registryHash": "7c3cc7ca4e8964fe8aa4a26db9d9468751751665e5e21a800326424bf1614ac9",
+  "builtAt": "2026-09-07T22:06:10.613Z",
+  "status": "built"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-employee-benefits-premium-eligibility-reconciliation",
+    "name": "Employee benefits premium eligibility reconciliation",
+    "sourceProject": "ai-employee-benefits-premium-eligibility-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-job-exposure-redeployment-intelligence",
+    "name": "Job exposure redeployment intelligence",
+    "sourceProject": "ai-job-exposure-redeployment-intelligence",
+    "services": []
+  },
+  {
+    "id": "ai-security-guard-overtime-invoice-audit",
+    "name": "Security guard overtime invoice audit",
+    "sourceProject": "ai-security-guard-overtime-invoice-audit",
+    "services": []
+  },
+  {
+    "id": "ai-staffing-agency-bill-rate-audit",
+    "name": "Staffing agency bill rate audit",
+    "sourceProject": "ai-staffing-agency-bill-rate-audit",
+    "services": []
+  },
+  {
+    "id": "ai-workforce-transformation-planner",
+    "name": "Workforce transformation planner",
+    "sourceProject": "ai-workforce-transformation-planner",
+    "services": []
+  },
+  {
+    "id": "AIDEIAnalyticsReporting",
+    "name": "Deianalytics reporting",
+    "sourceProject": "AIDEIAnalyticsReporting",
+    "services": []
+  },
+  {
+    "id": "AIEmployeeBenefitsOptimizer",
+    "name": "Employee benefits optimizer",
+    "sourceProject": "AIEmployeeBenefitsOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIEmployeeSentimentAnalyzer",
+    "name": "Employee sentiment analyzer",
+    "sourceProject": "AIEmployeeSentimentAnalyzer",
+    "services": []
+  },
+  {
+    "id": "AIOnboardingFlowCreator",
+    "name": "Onboarding flow creator",
+    "sourceProject": "AIOnboardingFlowCreator",
+    "services": []
+  },
+  {
+    "id": "AiRecruiterScreener",
+    "name": "Recruiter screener",
+    "sourceProject": "AiRecruiterScreener",
+    "services": []
+  },
+  {
+    "id": "AiResumeJobApplication",
+    "name": "Resume job application",
+    "sourceProject": "AiResumeJobApplication",
+    "services": []
+  },
+  {
+    "id": "AIWorkforceSchedulingShiftPlanner",
+    "name": "Workforce scheduling shift planner",
+    "sourceProject": "AIWorkforceSchedulingShiftPlanner",
+    "services": []
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "workforce-platform",
+  "title": "HR, workforce & talent operations",
+  "buyer": "HR and workforce-planning teams",
+  "sourceCount": 12,
+  "sources": [
+    "ai-employee-benefits-premium-eligibility-reconciliation",
+    "ai-job-exposure-redeployment-intelligence",
+    "ai-security-guard-overtime-invoice-audit",
+    "ai-staffing-agency-bill-rate-audit",
+    "ai-workforce-transformation-planner",
+    "AIDEIAnalyticsReporting",
+    "AIEmployeeBenefitsOptimizer",
+    "AIEmployeeSentimentAnalyzer",
+    "AIOnboardingFlowCreator",
+    "AiRecruiterScreener",
+    "AiResumeJobApplication",
+    "AIWorkforceSchedulingShiftPlanner"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46055,
+  "productName": "HR, workforce Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation",
+    "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence",
+    "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit",
+    "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit",
+    "/Volumes/external/projects/ai-workforce-transformation-planner",
+    "/Volumes/external/projects/AIDEIAnalyticsReporting",
+    "/Volumes/external/projects/AIEmployeeBenefitsOptimizer",
+    "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+    "/Volumes/external/projects/AIOnboardingFlowCreator",
+    "/Volumes/external/projects/AiRecruiterScreener",
+    "/Volumes/external/projects/AiResumeJobApplication",
+    "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner"
+  ]
+}

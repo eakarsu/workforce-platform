@@ -1,0 +1,8 @@
+{
+  "id": "workforce-platform",
+  "port": 46055,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:55.881Z"
+}

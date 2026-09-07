@@ -1,0 +1,2864 @@
+{
+  "mapped": [
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "plan-and-rate-library",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "plan-and-rate-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "employee-dependent-census",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "employee-dependent-census",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "enrollment-ingestion",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "enrollment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "carrier-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "carrier-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "retro-enrollment-validation",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "retro-enrollment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "terminated-member-detection",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "terminated-member-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "life-event-effective-dates",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "life-event-effective-dates",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "cobra-reconciliation",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "cobra-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "leave-of-absence-billing",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "leave-of-absence-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "age-banded-premium-validation",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "age-banded-premium-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "self-billed-premium-calculation",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "self-billed-premium-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "carrier-discrepancy-workflow",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "carrier-discrepancy-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "premium-credit-tracking",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "premium-credit-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "payroll-deduction-reconciliation",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "payroll-deduction-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "plan-and-carrier-analytics",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/app.config.mjs",
+      "canonical": "plan-and-carrier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "/exposure",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "exposure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "/scenarios",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "scenarios",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "/redeployment",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "redeployment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "/communication",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "communication",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "BusinessUnit",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "business-unit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "RoleExposure",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "role-exposure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "TaskProfile",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "task-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "ScenarioModel",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "scenario-model",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "RedeploymentOption",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "redeployment-option",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "VacancyMatch",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "vacancy-match",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "CostComparison",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "cost-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "CommunicationPack",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "communication-pack",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "AttritionPlan",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "attrition-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "SkillCheckpoint",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "skill-checkpoint",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "ManagerAlert",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "manager-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "ProgramMetric",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "program-metric",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "exposure-score",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "exposure-score",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "scenario-run",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "scenario-run",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-job-exposure-redeployment-intelligence",
+      "sourceKey": "redeployment-match",
+      "source": "/Volumes/external/projects/ai-job-exposure-redeployment-intelligence/src/config/app.ts",
+      "canonical": "redeployment-match",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "security-contract-library",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "security-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "post-order-registry",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "post-order-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "guard-credential-validation",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "guard-credential-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "schedule-ingestion",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "schedule-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "time-punch-matching",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "time-punch-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "regular-hour-calculation",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "regular-hour-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "overtime-responsibility",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "overtime-responsibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "holiday-premium-audit",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "holiday-premium-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "vacant-post-detection",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "vacant-post-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "supervisor-markup-control",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "supervisor-markup-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "incident-coverage-validation",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "incident-coverage-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "vendor-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "vendor-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "location-post-analytics",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/app.config.mjs",
+      "canonical": "location-post-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "staffing-agreement-library",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "staffing-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "worker-assignment-registry",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "worker-assignment-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "approved-pay-rate-control",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "approved-pay-rate-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "markup-calculation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "markup-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "timecard-ingestion",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "timecard-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "overtime-rate-validation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "overtime-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "holiday-premium-audit",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "holiday-premium-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "tenure-discount-tracking",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "tenure-discount-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "conversion-fee-calculation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "conversion-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "expense-policy-validation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "expense-policy-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "duplicate-worker-billing",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "duplicate-worker-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "agency-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "agency-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "agency-role-analytics",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/app.config.mjs",
+      "canonical": "agency-role-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "/roles",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "roles",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "/automation",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "automation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "/reskilling",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "reskilling",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "/governance",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "governance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "JobRole",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "job-role",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "TaskInventory",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "AutomationAssessment",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "automation-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "ReskillingPlan",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "reskilling-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "TransitionPath",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "transition-path",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "ProductivityTarget",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "productivity-target",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "DisplacementForecast",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "displacement-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "Employee",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "employee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "SkillGap",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "skill-gap",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "Scenario",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "scenario",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "GovernanceAction",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "governance-action",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "LearningResource",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "learning-resource",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "task-classify",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "task-classify",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "exposure-forecast",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "exposure-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-workforce-transformation-planner",
+      "sourceKey": "plan-generate",
+      "source": "/Volumes/external/projects/ai-workforce-transformation-planner/src/config/app.ts",
+      "canonical": "plan-generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/diversity-metrics",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "diversity-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/pay-equity",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "pay-equity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/hiring-bias",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "hiring-bias",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/promotion-bias",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "promotion-bias",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/compliance-reports",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/benchmarking",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "benchmarking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/employee-surveys",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "employee-surveys",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/training-programs",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "training-programs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/retention-analysis",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "retention-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/leadership-pipeline",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "leadership-pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/supplier-diversity",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "supplier-diversity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/erg-management",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "erg-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/incident-reports",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "incident-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/accessibility",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "accessibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "/workforce-demographics",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting/frontend/src/pages/Dashboard.js",
+      "canonical": "workforce-demographics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "cf/predictive-equity-forecasting",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "predictive-equity-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "cf/bias-mitigation-playbook",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "bias-mitigation-playbook",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "cf/intersectionality-analysis",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "intersectionality-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "cf/talent-pipeline-simulation",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "talent-pipeline-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "cf/peer-benchmarking",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "peer-benchmarking",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/none-significant-excellent-ai-to-route-alignment-16-ai-endpo",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "none-significant-excellent-ai-to-route-alignment-16-ai-endpo",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/alerts-lacks-ai-prioritization-endpoint",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "alerts-lacks-ai-prioritization-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/usermanagement-lacks-ai-access-pattern-anomaly-detection",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "usermanagement-lacks-ai-access-pattern-anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/limited-hris-integration-no-workday-successfactors-bamboohr",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "limited-hris-integration-no-workday-successfactors-bamboohr",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/limited-real-time-alerting-beyond-alerts-js-storage",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "limited-real-time-alerting-beyond-alerts-js-storage",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/no-action-plan-automation-or-tracking-workflow",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "action-plan-automation-or-tracking-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/no-webhooks",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "sourceKey": "gap/no-payment-billing-module",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "canonical": "payment-billing-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeBenefitsOptimizer",
+      "sourceKey": "AIEmployeeBenefitsOptimizer",
+      "source": "/Volumes/external/projects/AIEmployeeBenefitsOptimizer",
+      "canonical": "aiemployee-benefits-optimizer",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Employee Surveys",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "employee-surveys",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Department Analytics",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "department-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Pulse Checks",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "pulse-checks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Feedback Analysis",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "feedback-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Retention Risks",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "retention-risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Engagement Scores",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "engagement-scores",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Team Morale",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "team-morale",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Exit Interviews",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "exit-interviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Anonymous Reports",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "anonymous-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Performance Reviews",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "performance-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Onboarding Feedback",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "onboarding-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Benefits Satisfaction",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "benefits-satisfaction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Work-Life Balance",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "work-life-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Leadership Ratings",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "leadership-ratings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "Culture Index",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer/frontend/src/features.js",
+      "canonical": "culture-index",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/sentiment-analysis",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "sentiment-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/retention-predict",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "retention-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/enps-improve",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "enps-improve",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/leadership-feedback-extract",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "leadership-feedback-extract",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/culture-health-score",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "culture-health-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/cross-module-correlation",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "cross-module-correlation",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/sentiment-trend",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "sentiment-trend",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "ai/intervention-planner",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "intervention-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "sourceKey": "retaliation-risk-sentinel",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "canonical": "retaliation-risk-sentinel",
+      "kind": "route"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/flows",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "flows",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/segments",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "segments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/ai-content",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "content",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/tooltips",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "tooltips",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/checklists",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/progress",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "progress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/ab-tests",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "ab-tests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/triggers",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "triggers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/personalization",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "personalization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/ai-checklists",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/pto-scheduler",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "pto-scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/mentor-matcher",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "mentor-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/ai-progress",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "progress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/feedback-collector",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "feedback-collector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/training-recommender",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "training-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/manager-readiness",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "manager-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/funnel-analytics",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "funnel-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/sdk-docs",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "sdk-docs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/cf-ai-flow-generator-from-jd",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "ai-flow-generator-from-jd",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/cf-real-time-feedback-loop",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "real-time-feedback-loop",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/cf-adaptive-pacing",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "adaptive-pacing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/cf-department-specific-content-recommendation",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "department-specific-content-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/cf-onboarding-compliance-auditing",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "onboarding-compliance-auditing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-cohort",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "cohort",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-sentiment",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-auto",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "auto",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-role",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "role",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-backend-logic-concentrated-in-single-index-js",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "backend-logic-concentrated-in-single-index-js",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-missing-dedicated-checklist-routes-only-ai-generat",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "missing-dedicated-checklist-routes-only-ai-generat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-hr-system-integrations-workday-bamboohr",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "hr-system-integrations-workday-bamboohr",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-webhooks-for-outbound-triggers-to-customer-syst",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "webhooks-for-outbound-triggers-to-customer-syst",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-limited-reporting-export-pdf-csv",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "limited-reporting-export-pdf-csv",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-rbac-granularity-beyond-admin-manager",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "rbac-granularity-beyond-admin-manager",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "/gap-no-file-upload-for-onboarding-documents-videos",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "canonical": "file-upload-for-onboarding-documents-videos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "sourceKey": "compliance-audit",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "canonical": "compliance-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/jobs",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/candidates",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/interviews",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "interviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/pipeline",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/hr",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "hr",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/hr/slate-balance",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "hr-slate-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-resumescreening-parse-and-score",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "resumescreening-parse-and-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-interviewanalysis-transcribe-sentiment-re",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "interviewanalysis-transcribe-sentiment-re",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-culturefitassessment",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "culturefitassessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-biasdetection-in-hiring-funnel",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "biasdetection-in-hiring-funnel",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-salarybenchmark-route",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "salarybenchmark-route",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-skillsgapanalysis-for-hires",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "skillsgapanalysis-for-hires",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-resume-parserfile-ingestion-route",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "resume-parserfile-ingestion-route",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-calendar-integration-for-interview-schedu",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "calendar-integration-for-interview-schedu",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-offer-letter-generator",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "offer-letter-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-onboarding-checklist-workflow",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "onboarding-checklist-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-performance-review-module",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "performance-review-module",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-dei-metrics-dashboard",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "dei-metrics-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-external-jobboard-posting-linkedin-indeed",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "external-jobboard-posting-linkedin-indeed",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "/gap-no-notificationsemail-automation-routes",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "canonical": "notificationsemail-automation-routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "bias-detector",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "bias-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "job-description-writer",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "job-description-writer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "skills-assessor",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "skills-assessor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "sentiment-analyzer",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "sentiment-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "culture-fit",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "culture-fit",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "performance-review",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "performance-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "salary-benchmarker",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "salary-benchmarker",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "exit-interview",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "exit-interview",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "interview-scheduler",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "interview-scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "org-chart",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "org-chart",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "offer-letter",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "offer-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "dei-metrics",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/pages/HRTools.jsx",
+      "canonical": "dei-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/bias-detector",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-bias-detector",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/sentiment-analyzer",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-sentiment-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/culture-fit",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "culturefitassessment",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/performance-reviews",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "performance-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/salary-benchmarker",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-salary-benchmarker",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/exit-interviews",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "exit-interviews",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/interview-scheduler",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-interview-scheduler",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/org-chart",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-org-chart",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/skills-assessor",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-skills-assessor",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/job-description-writer",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-job-description-writer",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/skills-gap-analysis",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "skillsgapanalysis-for-hires",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/interview-analysis",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "interviewanalysis-transcribe-sentiment-re",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/retention-risk",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-retention-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/offer-letter",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "hr-offer-letter",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "hr/dei-metrics",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "dei-metrics-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-unbiased-resume-ranking",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "unbiased-resume-ranking",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-interview-intelligence",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "interview-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-peer-feedback-aggregator",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "peer-feedback-aggregator",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-dei-metrics-dashboard",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "dei-metrics-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-retention-risk-prediction",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "retention-risk-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "sourceKey": "cf-skillstorole-matcher",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "canonical": "skillstorole-matcher",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/resumes",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "resumes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/cover-letters",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "cover-letters",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/jobs",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/applications",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "applications",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/interviews",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "interviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/skills",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "skills",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/salary",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "salary",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/companies",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "companies",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/network",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "network",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/resume-views",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "resume-views",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-job-matcher",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "job-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-keyword-optimizer",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "keyword-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-cover-letter",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "cover-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/interview-prep",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "interview-prep",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-salary-negotiator",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "salary-negotiator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/resume-upload",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "resume-upload",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/autopilot",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "autopilot",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/linkedin-sync",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "linkedin-sync",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/compensation",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "compensation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/voice-prep",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "voice-prep",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-application-tracker",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "application-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-interview-scheduling",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "canonical": "interview-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-job-matcher",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/pages/Dashboard.tsx",
+      "canonical": "job-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-keyword-optimizer",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/pages/Dashboard.tsx",
+      "canonical": "keyword-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-cover-letter",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/pages/Dashboard.tsx",
+      "canonical": "cover-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/interview-prep",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/pages/Dashboard.tsx",
+      "canonical": "interview-prep",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "/ai-salary-negotiator",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/pages/Dashboard.tsx",
+      "canonical": "salary-negotiator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "ai-rejection-analysis",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "rejection-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "ai-offer-negotiation",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "offer-negotiation",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "ai-career-trajectory",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "career-trajectory",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-agentic-application-suite",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "agentic-application-suite",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-interview-coaching-with-recording",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "interview-coaching-with-recording",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-offer-negotiation-coach",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "offer-negotiation-coach",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-career-goal-roadmap",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "career-goal-roadmap",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-company-culture-fit-assessment",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "company-culture-fit-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "cf-recruiter-relationship-builder",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "recruiter-relationship-builder",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-rejectionanalysis-why-rejected",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "rejectionanalysis-why-rejected",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-interviewschedulingoptimizer",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "interviewschedulingoptimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-offernegotiationsimulator",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "offernegotiationsimulator",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-careertrajectoryanalyzer-path-prediction",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "careertrajectoryanalyzer-path-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-videorecording-analysis-eye-contact-pace",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "videorecording-analysis-eye-contact-pace",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-limited-linkedin-integration-stub-only-no-re",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "limited-linkedin-integration-stub-only-no-re",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-interview-panel-feedback-collection",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "interview-panel-feedback-collection",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-offer-comparison-tool-benefits-equity",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "offer-comparison-tool-benefits-equity",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-background-check-status-tracker",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "background-check-status-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-browser-extension-for-oneclick-apply",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "browser-extension-for-oneclick-apply",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-notificationsemail-automation",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "notificationsemail-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "sourceKey": "gap-no-public-webhooks",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "canonical": "public-webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/employees",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "employees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/shifts",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/shift-swaps",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "shift-swaps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/time-off",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "time-off",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/availability",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "availability",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/breaks",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "breaks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/overtime",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "overtime",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/payroll",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "payroll",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/forecasts",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/recommendations",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "no-show-prediction",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "no-show-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "fairness-audit",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "fairness-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "burnout-risk",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "burnout-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "gig-preferences",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "gig-preferences",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "external-fill-in",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "external-fill-in",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "wage-compression",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "wage-compression",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "capacity-plan",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "capacity-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "productivity-anomaly",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "productivity-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "departments",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "departments",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "shift-templates",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "shift-templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "time-clock",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "time-clock",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "announcements",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "announcements",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/predictive-no-show-modeling-with-ai-driven-reminder-timing",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-predictive-no-show-modeling-with-ai-driven-reminder-timing",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/fairness-audit-by-demographic",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-fairness-audit-by-demographic",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/gig-worker-preference-learning",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-gig-worker-preference-learning",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/external-labor-market-integration-for-fill-ins",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-external-labor-market-integration-for-fill-ins",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/wage-compression-detection-internal-equity-alerts",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-wage-compression-detection-internal-equity-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/workforce-capacity-planning-with-turnover-prediction",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-workforce-capacity-planning-with-turnover-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/cfs/productivity-per-shift-analysis-with-anomaly-flags",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-cfs-productivity-per-shift-analysis-with-anomaly-flags",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-ai/ai-burnout-fatigue-risk-modeling",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-ai-ai-burnout-fatigue-risk-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-ai/ai-fairness-auditor-for-schedule-equity",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-ai-ai-fairness-auditor-for-schedule-equity",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-ai/predictive-turnover-and-retention-modeling",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-ai-predictive-turnover-and-retention-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-ai/ai-candidate-to-shift-matching-for-gig-workers",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-ai-ai-candidate-to-shift-matching-for-gig-workers",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/benefits-management",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-benefits-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/performance-review-module",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-performance-review-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/training-and-lms-integration",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-training-and-lms-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/certification-expiration-alerts",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-certification-expiration-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/geofenced-clock-in-mobile-attendance",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-geofenced-clock-in-mobile-attendance",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "sourceKey": "batch09/gap-nonai/tip-pool-and-tip-out-calculations",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "canonical": "batch09-gap-nonai-tip-pool-and-tip-out-calculations",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-employee-benefits-premium-eligibility-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-employee-benefits-premium-eligibility-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-security-guard-overtime-invoice-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-security-guard-overtime-invoice-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-staffing-agency-bill-rate-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-staffing-agency-bill-rate-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDEIAnalyticsReporting",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDEIAnalyticsReporting",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIEmployeeSentimentAnalyzer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmployeeSentimentAnalyzer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "/flows/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIOnboardingFlowCreator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIOnboardingFlowCreator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiRecruiterScreener/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "jobs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "candidates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "interviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiRecruiterScreener",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiRecruiterScreener",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiResumeJobApplication/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "register",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "resumes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "cover-letters/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "jobs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "applications/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "interviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "salary/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "companies/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "network/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiResumeJobApplication",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiResumeJobApplication",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWorkforceSchedulingShiftPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWorkforceSchedulingShiftPlanner",
+      "key": "/batch09/cfs/burnout-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "plan-and-rate-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "employee-dependent-census",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "enrollment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retro-enrollment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "terminated-member-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "life-event-effective-dates",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cobra-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "leave-of-absence-billing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "age-banded-premium-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "self-billed-premium-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-discrepancy-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "premium-credit-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-deduction-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-and-carrier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "security-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "post-order-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "guard-credential-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "schedule-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "time-punch-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "regular-hour-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overtime-responsibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "holiday-premium-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vacant-post-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supervisor-markup-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "incident-coverage-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "location-post-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "staffing-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "worker-assignment-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "approved-pay-rate-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "markup-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "timecard-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overtime-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "holiday-premium-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tenure-discount-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "conversion-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expense-policy-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-worker-billing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-role-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "AIEmployeeBenefitsOptimizer",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

@@ -1,0 +1,927 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "exposure-score",
+      "scenario-run",
+      "redeployment-match",
+      "task-classify",
+      "exposure-forecast",
+      "plan-generate",
+      "offer-letter",
+      "cover-letter",
+      "verify-email",
+      "notificationsemail-automation"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 13 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "exposure-score",
+        "title": "Draft: Exposure Scorer",
+        "originalPath": "/features/exposure-score"
+      },
+      {
+        "id": "scenario-run",
+        "title": "Draft: Scenario Modeler",
+        "originalPath": "/features/scenario-run"
+      },
+      {
+        "id": "redeployment-match",
+        "title": "Draft: Redeployment Matcher",
+        "originalPath": "/features/redeployment-match"
+      },
+      {
+        "id": "task-classify",
+        "title": "Draft: Task Classifier",
+        "originalPath": "/features/task-classify"
+      },
+      {
+        "id": "exposure-forecast",
+        "title": "Draft: Exposure Forecaster",
+        "originalPath": "/features/exposure-forecast"
+      },
+      {
+        "id": "plan-generate",
+        "title": "Draft: Reskilling Plan Generator",
+        "originalPath": "/features/plan-generate"
+      },
+      {
+        "id": "offer-letter",
+        "title": "AI Offer Letter Generator",
+        "originalPath": "/features/offer-letter"
+      },
+      {
+        "id": "cover-letter",
+        "title": "Cover Letter AI",
+        "originalPath": "/features/cover-letter"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      },
+      {
+        "id": "notificationsemail-automation",
+        "title": "notificationsemail automation",
+        "originalPath": "/features/notificationsemail-automation"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "plan-and-rate-library",
+      "employee-dependent-census",
+      "life-event-effective-dates",
+      "self-billed-premium-calculation",
+      "carrier-discrepancy-workflow",
+      "plan-and-carrier-analytics",
+      "post-order-registry",
+      "regular-hour-calculation",
+      "overtime-responsibility",
+      "vendor-dispute-workflow",
+      "location-post-analytics",
+      "worker-assignment-registry",
+      "markup-calculation",
+      "timecard-ingestion",
+      "tenure-discount-tracking",
+      "agency-dispute-workflow",
+      "agency-role-analytics",
+      "automation-assessment",
+      "none-significant-excellent-ai-to-route-alignment-16-ai-endpo",
+      "alerts-lacks-ai-prioritization-endpoint",
+      "department-analytics",
+      "performance-reviews",
+      "enps-improve",
+      "leadership-feedback-extract",
+      "cross-module-correlation",
+      "intervention-planner",
+      "content",
+      "mentor-matcher",
+      "feedback-collector",
+      "training-recommender",
+      "funnel-analytics",
+      "ai-flow-generator-from-jd",
+      "missing-dedicated-checklist-routes-only-ai-generat",
+      "assessments",
+      "hr",
+      "performance-review-module",
+      "job-description-writer",
+      "skills-assessor",
+      "performance-review",
+      "dei-metrics",
+      "hr-skills-assessor",
+      "job-matcher",
+      "interview-prep",
+      "salary-negotiator",
+      "resume-upload",
+      "autopilot",
+      "linkedin-sync",
+      "compensation",
+      "voice-prep",
+      "application-tracker",
+      "offer-negotiation",
+      "career-trajectory",
+      "company-culture-fit-assessment",
+      "batch09-gap-nonai-benefits-management",
+      "batch09-gap-nonai-performance-review-module",
+      "batch09-gap-nonai-certification-expiration-alerts",
+      "batch09-gap-nonai-geofenced-clock-in-mobile-attendance",
+      "batch09-gap-nonai-tip-pool-and-tip-out-calculations"
+    ],
+    "ai": true,
+    "representativeId": "plan-and-rate-library",
+    "description": "One assistant for 58 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "plan-and-rate-library",
+        "title": "Plan and rate library",
+        "originalPath": "/features/plan-and-rate-library"
+      },
+      {
+        "id": "employee-dependent-census",
+        "title": "Employee dependent census",
+        "originalPath": "/features/employee-dependent-census"
+      },
+      {
+        "id": "life-event-effective-dates",
+        "title": "Life-event effective dates",
+        "originalPath": "/features/life-event-effective-dates"
+      },
+      {
+        "id": "self-billed-premium-calculation",
+        "title": "Self-billed premium calculation",
+        "originalPath": "/features/self-billed-premium-calculation"
+      },
+      {
+        "id": "carrier-discrepancy-workflow",
+        "title": "Carrier discrepancy workflow",
+        "originalPath": "/features/carrier-discrepancy-workflow"
+      },
+      {
+        "id": "plan-and-carrier-analytics",
+        "title": "Plan and carrier analytics",
+        "originalPath": "/features/plan-and-carrier-analytics"
+      },
+      {
+        "id": "post-order-registry",
+        "title": "Post order registry",
+        "originalPath": "/features/post-order-registry"
+      },
+      {
+        "id": "regular-hour-calculation",
+        "title": "Regular hour calculation",
+        "originalPath": "/features/regular-hour-calculation"
+      },
+      {
+        "id": "overtime-responsibility",
+        "title": "Overtime responsibility",
+        "originalPath": "/features/overtime-responsibility"
+      },
+      {
+        "id": "vendor-dispute-workflow",
+        "title": "Vendor dispute workflow",
+        "originalPath": "/features/vendor-dispute-workflow"
+      },
+      {
+        "id": "location-post-analytics",
+        "title": "Location post analytics",
+        "originalPath": "/features/location-post-analytics"
+      },
+      {
+        "id": "worker-assignment-registry",
+        "title": "Worker assignment registry",
+        "originalPath": "/features/worker-assignment-registry"
+      },
+      {
+        "id": "markup-calculation",
+        "title": "Markup calculation",
+        "originalPath": "/features/markup-calculation"
+      },
+      {
+        "id": "timecard-ingestion",
+        "title": "Timecard ingestion",
+        "originalPath": "/features/timecard-ingestion"
+      },
+      {
+        "id": "tenure-discount-tracking",
+        "title": "Tenure discount tracking",
+        "originalPath": "/features/tenure-discount-tracking"
+      },
+      {
+        "id": "agency-dispute-workflow",
+        "title": "Agency dispute workflow",
+        "originalPath": "/features/agency-dispute-workflow"
+      },
+      {
+        "id": "agency-role-analytics",
+        "title": "Agency role analytics",
+        "originalPath": "/features/agency-role-analytics"
+      },
+      {
+        "id": "automation-assessment",
+        "title": "Assessment",
+        "originalPath": "/features/automation-assessment"
+      },
+      {
+        "id": "none-significant-excellent-ai-to-route-alignment-16-ai-endpo",
+        "title": "None significant excellent ai to route alignment 16 ai endpo",
+        "originalPath": "/features/none-significant-excellent-ai-to-route-alignment-16-ai-endpo"
+      },
+      {
+        "id": "alerts-lacks-ai-prioritization-endpoint",
+        "title": "Alerts lacks ai prioritization endpoint",
+        "originalPath": "/features/alerts-lacks-ai-prioritization-endpoint"
+      },
+      {
+        "id": "department-analytics",
+        "title": "Department Analytics",
+        "originalPath": "/features/department-analytics"
+      },
+      {
+        "id": "performance-reviews",
+        "title": "Performance Reviews",
+        "originalPath": "/features/performance-reviews"
+      },
+      {
+        "id": "enps-improve",
+        "title": "Enps improve",
+        "originalPath": "/features/enps-improve"
+      },
+      {
+        "id": "leadership-feedback-extract",
+        "title": "Leadership feedback extract",
+        "originalPath": "/features/leadership-feedback-extract"
+      },
+      {
+        "id": "cross-module-correlation",
+        "title": "Cross module correlation",
+        "originalPath": "/features/cross-module-correlation"
+      },
+      {
+        "id": "intervention-planner",
+        "title": "Intervention planner",
+        "originalPath": "/features/intervention-planner"
+      },
+      {
+        "id": "content",
+        "title": "AI Content",
+        "originalPath": "/features/content"
+      },
+      {
+        "id": "mentor-matcher",
+        "title": "AI Mentor Matcher",
+        "originalPath": "/features/mentor-matcher"
+      },
+      {
+        "id": "feedback-collector",
+        "title": "AI Feedback",
+        "originalPath": "/features/feedback-collector"
+      },
+      {
+        "id": "training-recommender",
+        "title": "AI Training",
+        "originalPath": "/features/training-recommender"
+      },
+      {
+        "id": "funnel-analytics",
+        "title": "Funnel Analytics",
+        "originalPath": "/features/funnel-analytics"
+      },
+      {
+        "id": "ai-flow-generator-from-jd",
+        "title": "AI flow generator from JD",
+        "originalPath": "/features/ai-flow-generator-from-jd"
+      },
+      {
+        "id": "missing-dedicated-checklist-routes-only-ai-generat",
+        "title": "Missing dedicated checklist routes (only AI generation, not CRUD)",
+        "originalPath": "/features/missing-dedicated-checklist-routes-only-ai-generat"
+      },
+      {
+        "id": "assessments",
+        "title": "Assessments",
+        "originalPath": "/features/assessments"
+      },
+      {
+        "id": "hr",
+        "title": "HR AI Tools",
+        "originalPath": "/features/hr"
+      },
+      {
+        "id": "performance-review-module",
+        "title": "Performance Review",
+        "originalPath": "/features/performance-review-module"
+      },
+      {
+        "id": "job-description-writer",
+        "title": "AI Job Description Writer",
+        "originalPath": "/features/job-description-writer"
+      },
+      {
+        "id": "skills-assessor",
+        "title": "AI Skills Assessor",
+        "originalPath": "/features/skills-assessor"
+      },
+      {
+        "id": "performance-review",
+        "title": "AI Performance Review Writer",
+        "originalPath": "/features/performance-review"
+      },
+      {
+        "id": "dei-metrics",
+        "title": "AI DEI Metrics Aggregator",
+        "originalPath": "/features/dei-metrics"
+      },
+      {
+        "id": "hr-skills-assessor",
+        "title": "Skills assessor",
+        "originalPath": "/features/hr-skills-assessor"
+      },
+      {
+        "id": "job-matcher",
+        "title": "Job Matcher",
+        "originalPath": "/features/job-matcher"
+      },
+      {
+        "id": "interview-prep",
+        "title": "Interview Prep",
+        "originalPath": "/features/interview-prep"
+      },
+      {
+        "id": "salary-negotiator",
+        "title": "Salary Negotiator",
+        "originalPath": "/features/salary-negotiator"
+      },
+      {
+        "id": "resume-upload",
+        "title": "Resume Upload (PDF/DOCX)",
+        "originalPath": "/features/resume-upload"
+      },
+      {
+        "id": "autopilot",
+        "title": "Application Autopilot",
+        "originalPath": "/features/autopilot"
+      },
+      {
+        "id": "linkedin-sync",
+        "title": "LinkedIn Sync",
+        "originalPath": "/features/linkedin-sync"
+      },
+      {
+        "id": "compensation",
+        "title": "Compensation Tracker",
+        "originalPath": "/features/compensation"
+      },
+      {
+        "id": "voice-prep",
+        "title": "Voice Interview Prep",
+        "originalPath": "/features/voice-prep"
+      },
+      {
+        "id": "application-tracker",
+        "title": "Application Tracker",
+        "originalPath": "/features/application-tracker"
+      },
+      {
+        "id": "offer-negotiation",
+        "title": "Offer negotiation",
+        "originalPath": "/features/offer-negotiation"
+      },
+      {
+        "id": "career-trajectory",
+        "title": "Career trajectory",
+        "originalPath": "/features/career-trajectory"
+      },
+      {
+        "id": "company-culture-fit-assessment",
+        "title": "company culture fit assessment",
+        "originalPath": "/features/company-culture-fit-assessment"
+      },
+      {
+        "id": "batch09-gap-nonai-benefits-management",
+        "title": "Benefits management",
+        "originalPath": "/features/batch09-gap-nonai-benefits-management"
+      },
+      {
+        "id": "batch09-gap-nonai-performance-review-module",
+        "title": "Performance review module",
+        "originalPath": "/features/batch09-gap-nonai-performance-review-module"
+      },
+      {
+        "id": "batch09-gap-nonai-certification-expiration-alerts",
+        "title": "Certification expiration alerts",
+        "originalPath": "/features/batch09-gap-nonai-certification-expiration-alerts"
+      },
+      {
+        "id": "batch09-gap-nonai-geofenced-clock-in-mobile-attendance",
+        "title": "Geofenced clock in mobile attendance",
+        "originalPath": "/features/batch09-gap-nonai-geofenced-clock-in-mobile-attendance"
+      },
+      {
+        "id": "batch09-gap-nonai-tip-pool-and-tip-out-calculations",
+        "title": "Tip pool and tip out calculations",
+        "originalPath": "/features/batch09-gap-nonai-tip-pool-and-tip-out-calculations"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "enrollment-ingestion",
+      "retro-enrollment-validation",
+      "schedule-ingestion",
+      "staffing-agreement-library",
+      "pto-scheduler",
+      "interview-scheduler",
+      "interview-scheduling",
+      "batch09-cfs-workforce-capacity-planning-with-turnover-prediction",
+      "batch09-gap-ai-ai-fairness-auditor-for-schedule-equity"
+    ],
+    "ai": true,
+    "representativeId": "enrollment-ingestion",
+    "description": "One assistant for 9 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "enrollment-ingestion",
+        "title": "Enrollment ingestion",
+        "originalPath": "/features/enrollment-ingestion"
+      },
+      {
+        "id": "retro-enrollment-validation",
+        "title": "Retro enrollment validation",
+        "originalPath": "/features/retro-enrollment-validation"
+      },
+      {
+        "id": "schedule-ingestion",
+        "title": "Schedule ingestion",
+        "originalPath": "/features/schedule-ingestion"
+      },
+      {
+        "id": "staffing-agreement-library",
+        "title": "Staffing agreement library",
+        "originalPath": "/features/staffing-agreement-library"
+      },
+      {
+        "id": "pto-scheduler",
+        "title": "AI PTO Scheduler",
+        "originalPath": "/features/pto-scheduler"
+      },
+      {
+        "id": "interview-scheduler",
+        "title": "AI Interview Scheduler",
+        "originalPath": "/features/interview-scheduler"
+      },
+      {
+        "id": "interview-scheduling",
+        "title": "Interview Scheduling",
+        "originalPath": "/features/interview-scheduling"
+      },
+      {
+        "id": "batch09-cfs-workforce-capacity-planning-with-turnover-prediction",
+        "title": "Workforce capacity planning with turnover prediction",
+        "originalPath": "/features/batch09-cfs-workforce-capacity-planning-with-turnover-prediction"
+      },
+      {
+        "id": "batch09-gap-ai-ai-fairness-auditor-for-schedule-equity",
+        "title": "Fairness auditor for schedule equity",
+        "originalPath": "/features/batch09-gap-ai-ai-fairness-auditor-for-schedule-equity"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "carrier-invoice-ingestion",
+      "cobra-reconciliation",
+      "leave-of-absence-billing",
+      "premium-credit-tracking",
+      "payroll-deduction-reconciliation",
+      "invoice-recalculation",
+      "credit-reconciliation",
+      "conversion-fee-calculation",
+      "duplicate-worker-billing"
+    ],
+    "ai": true,
+    "representativeId": "carrier-invoice-ingestion",
+    "description": "One assistant for 9 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "carrier-invoice-ingestion",
+        "title": "Carrier invoice ingestion",
+        "originalPath": "/features/carrier-invoice-ingestion"
+      },
+      {
+        "id": "cobra-reconciliation",
+        "title": "COBRA reconciliation",
+        "originalPath": "/features/cobra-reconciliation"
+      },
+      {
+        "id": "leave-of-absence-billing",
+        "title": "Leave-of-absence billing",
+        "originalPath": "/features/leave-of-absence-billing"
+      },
+      {
+        "id": "premium-credit-tracking",
+        "title": "Premium credit tracking",
+        "originalPath": "/features/premium-credit-tracking"
+      },
+      {
+        "id": "payroll-deduction-reconciliation",
+        "title": "Payroll deduction reconciliation",
+        "originalPath": "/features/payroll-deduction-reconciliation"
+      },
+      {
+        "id": "invoice-recalculation",
+        "title": "Invoice recalculation",
+        "originalPath": "/features/invoice-recalculation"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "conversion-fee-calculation",
+        "title": "Conversion fee calculation",
+        "originalPath": "/features/conversion-fee-calculation"
+      },
+      {
+        "id": "duplicate-worker-billing",
+        "title": "Duplicate worker billing",
+        "originalPath": "/features/duplicate-worker-billing"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "terminated-member-detection",
+      "time-punch-matching",
+      "vacant-post-detection",
+      "displacement-forecast",
+      "pay-equity",
+      "retention-analysis",
+      "predictive-equity-forecasting",
+      "intersectionality-analysis",
+      "aiemployee-benefits-optimizer",
+      "feedback-analysis",
+      "retention-predict",
+      "culture-health-score",
+      "department-specific-content-recommendation",
+      "interviewanalysis-transcribe-sentiment-re",
+      "skillsgapanalysis-for-hires",
+      "bias-detector",
+      "culture-fit",
+      "salary-benchmarker",
+      "exit-interview",
+      "org-chart",
+      "keyword-optimizer",
+      "rejection-analysis",
+      "rejectionanalysis-why-rejected",
+      "careertrajectoryanalyzer-path-prediction",
+      "videorecording-analysis-eye-contact-pace",
+      "forecasts",
+      "recommendations",
+      "no-show-prediction",
+      "batch09-cfs-predictive-no-show-modeling-with-ai-driven-reminder-timing",
+      "batch09-gap-ai-predictive-turnover-and-retention-modeling",
+      "batch09-gap-ai-ai-candidate-to-shift-matching-for-gig-workers"
+    ],
+    "ai": true,
+    "representativeId": "terminated-member-detection",
+    "description": "One assistant for 31 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "terminated-member-detection",
+        "title": "Terminated member detection",
+        "originalPath": "/features/terminated-member-detection"
+      },
+      {
+        "id": "time-punch-matching",
+        "title": "Time punch matching",
+        "originalPath": "/features/time-punch-matching"
+      },
+      {
+        "id": "vacant-post-detection",
+        "title": "Vacant post detection",
+        "originalPath": "/features/vacant-post-detection"
+      },
+      {
+        "id": "displacement-forecast",
+        "title": "Displacement Forecast",
+        "originalPath": "/features/displacement-forecast"
+      },
+      {
+        "id": "pay-equity",
+        "title": "Pay Equity Analysis",
+        "originalPath": "/features/pay-equity"
+      },
+      {
+        "id": "retention-analysis",
+        "title": "Retention Analysis",
+        "originalPath": "/features/retention-analysis"
+      },
+      {
+        "id": "predictive-equity-forecasting",
+        "title": "Predictive equity forecasting",
+        "originalPath": "/features/predictive-equity-forecasting"
+      },
+      {
+        "id": "intersectionality-analysis",
+        "title": "Intersectionality analysis",
+        "originalPath": "/features/intersectionality-analysis"
+      },
+      {
+        "id": "aiemployee-benefits-optimizer",
+        "title": "Employee benefits optimizer work",
+        "originalPath": "/features/aiemployee-benefits-optimizer"
+      },
+      {
+        "id": "feedback-analysis",
+        "title": "Feedback Analysis",
+        "originalPath": "/features/feedback-analysis"
+      },
+      {
+        "id": "retention-predict",
+        "title": "Retention predict",
+        "originalPath": "/features/retention-predict"
+      },
+      {
+        "id": "culture-health-score",
+        "title": "Culture health score",
+        "originalPath": "/features/culture-health-score"
+      },
+      {
+        "id": "department-specific-content-recommendation",
+        "title": "Department-specific content recommendation",
+        "originalPath": "/features/department-specific-content-recommendation"
+      },
+      {
+        "id": "interviewanalysis-transcribe-sentiment-re",
+        "title": "Interview Analysis",
+        "originalPath": "/features/interviewanalysis-transcribe-sentiment-re"
+      },
+      {
+        "id": "skillsgapanalysis-for-hires",
+        "title": "Skills Gap Analysis",
+        "originalPath": "/features/skillsgapanalysis-for-hires"
+      },
+      {
+        "id": "bias-detector",
+        "title": "AI Bias Detector",
+        "originalPath": "/features/bias-detector"
+      },
+      {
+        "id": "culture-fit",
+        "title": "AI Culture Fit Scorer",
+        "originalPath": "/features/culture-fit"
+      },
+      {
+        "id": "salary-benchmarker",
+        "title": "AI Salary Benchmarker",
+        "originalPath": "/features/salary-benchmarker"
+      },
+      {
+        "id": "exit-interview",
+        "title": "AI Exit Interview Analyzer",
+        "originalPath": "/features/exit-interview"
+      },
+      {
+        "id": "org-chart",
+        "title": "AI Org Chart Optimizer",
+        "originalPath": "/features/org-chart"
+      },
+      {
+        "id": "keyword-optimizer",
+        "title": "Keyword Optimizer",
+        "originalPath": "/features/keyword-optimizer"
+      },
+      {
+        "id": "rejection-analysis",
+        "title": "Rejection analysis",
+        "originalPath": "/features/rejection-analysis"
+      },
+      {
+        "id": "rejectionanalysis-why-rejected",
+        "title": "rejectionanalysis why rejected",
+        "originalPath": "/features/rejectionanalysis-why-rejected"
+      },
+      {
+        "id": "careertrajectoryanalyzer-path-prediction",
+        "title": "careertrajectoryanalyzer path prediction",
+        "originalPath": "/features/careertrajectoryanalyzer-path-prediction"
+      },
+      {
+        "id": "videorecording-analysis-eye-contact-pace",
+        "title": "videorecording analysis eye contact pace",
+        "originalPath": "/features/videorecording-analysis-eye-contact-pace"
+      },
+      {
+        "id": "forecasts",
+        "title": "Demand Forecasts",
+        "originalPath": "/features/forecasts"
+      },
+      {
+        "id": "recommendations",
+        "title": "AI Recommendations",
+        "originalPath": "/features/recommendations"
+      },
+      {
+        "id": "no-show-prediction",
+        "title": "No show prediction",
+        "originalPath": "/features/no-show-prediction"
+      },
+      {
+        "id": "batch09-cfs-predictive-no-show-modeling-with-ai-driven-reminder-timing",
+        "title": "Predictive no show modeling with ai driven reminder timing",
+        "originalPath": "/features/batch09-cfs-predictive-no-show-modeling-with-ai-driven-reminder-timing"
+      },
+      {
+        "id": "batch09-gap-ai-predictive-turnover-and-retention-modeling",
+        "title": "Predictive turnover and retention modeling",
+        "originalPath": "/features/batch09-gap-ai-predictive-turnover-and-retention-modeling"
+      },
+      {
+        "id": "batch09-gap-ai-ai-candidate-to-shift-matching-for-gig-workers",
+        "title": "Candidate to shift matching for gig workers",
+        "originalPath": "/features/batch09-gap-ai-ai-candidate-to-shift-matching-for-gig-workers"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "age-banded-premium-validation",
+      "security-contract-library",
+      "guard-credential-validation",
+      "holiday-premium-audit",
+      "supervisor-markup-control",
+      "incident-coverage-validation",
+      "approved-pay-rate-control",
+      "overtime-rate-validation",
+      "expense-policy-validation",
+      "usermanagement-lacks-ai-access-pattern-anomaly-detection",
+      "retention-risk-prediction",
+      "fairness-audit",
+      "batch09-cfs-fairness-audit-by-demographic",
+      "batch09-cfs-productivity-per-shift-analysis-with-anomaly-flags",
+      "batch09-gap-ai-ai-burnout-fatigue-risk-modeling"
+    ],
+    "ai": true,
+    "representativeId": "age-banded-premium-validation",
+    "description": "One assistant for 15 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "age-banded-premium-validation",
+        "title": "Age-banded premium validation",
+        "originalPath": "/features/age-banded-premium-validation"
+      },
+      {
+        "id": "security-contract-library",
+        "title": "Security contract library",
+        "originalPath": "/features/security-contract-library"
+      },
+      {
+        "id": "guard-credential-validation",
+        "title": "Guard credential validation",
+        "originalPath": "/features/guard-credential-validation"
+      },
+      {
+        "id": "holiday-premium-audit",
+        "title": "Holiday premium audit",
+        "originalPath": "/features/holiday-premium-audit"
+      },
+      {
+        "id": "supervisor-markup-control",
+        "title": "Supervisor markup control",
+        "originalPath": "/features/supervisor-markup-control"
+      },
+      {
+        "id": "incident-coverage-validation",
+        "title": "Incident coverage validation",
+        "originalPath": "/features/incident-coverage-validation"
+      },
+      {
+        "id": "approved-pay-rate-control",
+        "title": "Approved pay rate control",
+        "originalPath": "/features/approved-pay-rate-control"
+      },
+      {
+        "id": "overtime-rate-validation",
+        "title": "Overtime rate validation",
+        "originalPath": "/features/overtime-rate-validation"
+      },
+      {
+        "id": "expense-policy-validation",
+        "title": "Expense policy validation",
+        "originalPath": "/features/expense-policy-validation"
+      },
+      {
+        "id": "usermanagement-lacks-ai-access-pattern-anomaly-detection",
+        "title": "Usermanagement lacks ai access pattern anomaly detection",
+        "originalPath": "/features/usermanagement-lacks-ai-access-pattern-anomaly-detection"
+      },
+      {
+        "id": "retention-risk-prediction",
+        "title": "retention risk prediction",
+        "originalPath": "/features/retention-risk-prediction"
+      },
+      {
+        "id": "fairness-audit",
+        "title": "Fairness audit",
+        "originalPath": "/features/fairness-audit"
+      },
+      {
+        "id": "batch09-cfs-fairness-audit-by-demographic",
+        "title": "Fairness audit by demographic",
+        "originalPath": "/features/batch09-cfs-fairness-audit-by-demographic"
+      },
+      {
+        "id": "batch09-cfs-productivity-per-shift-analysis-with-anomaly-flags",
+        "title": "Productivity per shift analysis with anomaly flags",
+        "originalPath": "/features/batch09-cfs-productivity-per-shift-analysis-with-anomaly-flags"
+      },
+      {
+        "id": "batch09-gap-ai-ai-burnout-fatigue-risk-modeling",
+        "title": "Burnout fatigue risk modeling",
+        "originalPath": "/features/batch09-gap-ai-ai-burnout-fatigue-risk-modeling"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "sentiment-analysis",
+      "sentiment-trend",
+      "sentiment-analyzer",
+      "hr-sentiment-analyzer"
+    ],
+    "ai": true,
+    "representativeId": "sentiment-analysis",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sentiment-analysis",
+        "title": "Sentiment analysis",
+        "originalPath": "/features/sentiment-analysis"
+      },
+      {
+        "id": "sentiment-trend",
+        "title": "Sentiment trend",
+        "originalPath": "/features/sentiment-trend"
+      },
+      {
+        "id": "sentiment-analyzer",
+        "title": "AI Employee Sentiment Analyzer",
+        "originalPath": "/features/sentiment-analyzer"
+      },
+      {
+        "id": "hr-sentiment-analyzer",
+        "title": "Sentiment analyzer",
+        "originalPath": "/features/hr-sentiment-analyzer"
+      }
+    ]
+  }
+]
