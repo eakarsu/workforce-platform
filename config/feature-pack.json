@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-employee-dependent-census",
+      "feature": "employee-dependent-census",
+      "title": "Employee dependent census insight",
+      "focus": "Summarize Employee dependent census records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent eligibility, coverage or payroll outcomes."
+    },
+    {
+      "id": "insight-enrollment-ingestion",
+      "feature": "enrollment-ingestion",
+      "title": "Enrollment ingestion insight",
+      "focus": "Summarize Enrollment ingestion records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent enrollments, effective dates or carrier confirmations."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
